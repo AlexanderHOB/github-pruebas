@@ -18,4 +18,10 @@ body{
 	text-align: center;
 	border: 1px dotted #fff;
 }
-
+.cabecera{
+	background:rgb(3, 25, 73);
+	color: azure;
+	font-size: 2em;
+	font-family: 'Courier New', Courier, monospace;
+	padding:0.9em 0;
+}
