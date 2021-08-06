@@ -1,4 +1,20 @@
 body{
 	background:#232323;
 	color:#fff;
+	font-size: 20px;
 }
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:80%;
+	margin: 0 auto;
+	height: 90vh;
+	
+}
+.post{
+	padding: 3em;
+	text-align: center;
+	border: 1px dotted #fff;
+}
+
