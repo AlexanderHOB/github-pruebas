@@ -19,9 +19,15 @@ body{
 	border: 1px dotted #fff;
 }
 .cabecera{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	background:rgb(3, 25, 73);
 	color: azure;
 	font-size: 2em;
 	font-family: 'Courier New', Courier, monospace;
 	padding:0.9em 0;
+}
+.img-responsive{
+	width: 80px;
 }
